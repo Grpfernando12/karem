@@ -1,0 +1,7 @@
+{
+  "name": "Karen: Assistente Virtual Interativa",
+  "description": "Uma assistente virtual inspirada na Karen do Bob Esponja, com reconhecimento de voz, síntese de fala, dashboard de métricas e animações de osciloscópio em tempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
